@@ -238,7 +238,7 @@
 		<profile>
 			<id>all</id>
 			<activation>
-				<activeByDefault>true</activeByDefault>
+				<activeByDefault>false</activeByDefault>
 			</activation>
 			<distributionManagement>
 				<repository>
@@ -263,7 +263,7 @@
 		<profile>
 			<id>opensource</id>
 			<activation>
-				<activeByDefault>false</activeByDefault>
+				<activeByDefault>true</activeByDefault>
 			</activation>
 			<build>
 				<plugins>

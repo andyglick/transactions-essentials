@@ -7,3 +7,11 @@ target/
 .hgignore
 .hgtags
 .project
+
+*.iml
+*.ipr
+*.iws
+
+.idea/
+
+*.log
